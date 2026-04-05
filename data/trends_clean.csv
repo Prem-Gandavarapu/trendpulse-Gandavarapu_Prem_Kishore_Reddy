@@ -1,0 +1,116 @@
+post_id,title,category,score,num_comments,author,collected_at
+47640875,"LLM Wiki – example of an ""idea file""",AI,182,53,tamnd,2026-04-05 14:44:59.572097
+47645468,Writing Lisp is AI resistant and I'm sad,AI,64,62,djha-skin,2026-04-05 14:46:02.450335
+47646241,Applying machine learning to identify unrecognized Covid-19 deaths in the US,AI,11,7,Pxtl,2026-04-05 14:46:57.686271
+47624645,Show HN: Apfel – The free AI already on your Mac,AI,715,146,franze,2026-04-05 14:47:27.009472
+47645976,AI that copied musical artist files copyright claim against artist [updated],AI,56,14,josephcsible,2026-04-05 14:47:35.298337
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,AI,394,146,denssumesh,2026-04-05 14:47:43.660186
+47638147,"Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",AI,16,12,bring-shrubbery,2026-04-05 14:47:50.356138
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,AI,564,113,AbuAssar,2026-04-05 14:48:37.822295
+47617376,OpenAI Acquires TBPN,AI,238,190,surprisetalk,2026-04-05 14:48:39.920636
+47645696,Towards end-to-end automation of AI research,AI,6,0,hardmaru,2026-04-05 14:48:55.768169
+47635033,Show HN: Travel Hacking Toolkit – Points search and trip planning with AI,AI,92,37,borski,2026-04-05 14:48:59.696677
+47639207,Show HN: Tokencap – Token budget enforcement across your AI agents,AI,7,0,pykul,2026-04-05 14:51:07.832310
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",AI,96,39,Bender,2026-04-05 14:51:12.241456
+47592755,OpenAI closes funding round at an $852B valuation,AI,526,493,surprisetalk,2026-04-05 14:51:36.197375
+47635340,Let's be Honest about AI Coding,AI,22,3,lordofmoria,2026-04-05 14:51:44.602248
+47620039,"Reporting potholes with an ESP32, LoRA, and AI",AI,33,0,flakespancakes,2026-04-05 14:52:37.847768
+47603737,AI for American-produced cement and concrete,AI,223,117,latchkey,2026-04-05 14:52:42.083765
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,AI,36,6,j0rg3,2026-04-05 14:53:13.379908
+47634240,OpenAI Cap Table leak reveals Microsoft's 18x return,AI,30,4,diehunde,2026-04-05 14:53:54.340986
+47633715,Kids groups say they didn't know OpenAI was behind their child safety coalition,AI,35,8,heavyset_go,2026-04-05 14:54:01.031304
+47633514,"Writing an LLM from scratch, part 32h – Interventions: full fat float32",AI,7,0,gpjt,2026-04-05 14:54:09.352934
+47632901,Sandbox Strategy Game for AI,AI,6,0,Stefan_Golas,2026-04-05 14:54:21.915055
+47610336,r/programming bans all discussion of LLM programming,AI,196,219,cryptoz,2026-04-05 14:55:19.526157
+47646843,Lisette a little language inspired by Rust that compiles to Go,Programming,26,10,jspdown,2026-04-05 14:44:57.781078
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",Programming,64,25,waveywaves,2026-04-05 14:45:13.762790
+47616157,Software never had a soul,Programming,13,11,firloop,2026-04-05 14:45:15.691251
+47637757,Embarrassingly simple self-distillation improves code generation,Programming,589,177,Anon84,2026-04-05 14:45:40.650275
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,Programming,1048,795,firloop,2026-04-05 14:45:50.374061
+47601570,"Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers",Programming,12,1,bitscraper,2026-04-05 14:47:48.000235
+47633640,How to Write Unmaintainable Code (1999),Programming,51,16,downbad_,2026-04-05 14:48:28.816158
+47630592,Async Python Is Secretly Deterministic,Programming,75,34,KraftyOne,2026-04-05 14:48:53.593587
+47620933,Memo: A language that remembers only the last 12 lines of code,Programming,57,36,notem,2026-04-05 14:50:39.798729
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,Programming,113,65,rdme,2026-04-05 14:52:26.800743
+47608058,A new C++ back end for ocamlc,Programming,236,20,glittershark,2026-04-05 14:53:09.174326
+47620939,rpg: A modern psql-compatible Postgres terminal and TUI written in Rust,Programming,21,3,tanelpoder,2026-04-05 14:53:35.534826
+47633734,ENiGMA½ BBS Software,Programming,10,1,NuSkooler,2026-04-05 14:54:03.240884
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,Programming,21,4,symisc_devel,2026-04-05 14:54:13.698946
+47597085,Claude Code Unpacked : A visual guide,Programming,1110,403,autocracy101,2026-04-05 14:55:24.147172
+47594804,Show HN: Claude Code rewritten as a bash script,Programming,59,19,rpst,2026-04-05 14:55:47.488827
+47589732,Forth VM and compiler written in C++ and Scryer Prolog,Programming,37,0,triska,2026-04-05 14:56:09.454213
+47631444,Show HN: Run Claude Code autonomously inside your Docker Compose stack (OSS),Programming,8,0,sayil,2026-04-05 14:56:18.345205
+47609294,The Claude Code Leak,Programming,199,180,mergesort,2026-04-05 14:57:16.097371
+47628083,Audit Claude Platform Activity with the Compliance API,Programming,5,0,gmays,2026-04-05 14:57:29.027487
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,Programming,76,29,simple10,2026-04-05 14:57:35.397079
+47599956,Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity,Programming,95,74,lukechu10,2026-04-05 14:59:01.023357
+47609425,Show HN: We open-sourced our content writing workflow as a Claude Code skill,Programming,18,8,arximughal,2026-04-05 14:59:29.724799
+47592392,Show HN: EU Leadership – Live API data site comparing Europe to the world,Programming,34,16,aureljohn,2026-04-05 15:00:08.899861
+47610590,The East India Company in Japan,Startups,10,1,Thevet,2026-04-05 14:46:00.589675
+47606840,DRAM pricing is killing the hobbyist SBC market,Startups,627,541,ingve,2026-04-05 14:52:33.642544
+47634220,Ten Foreign Nationals Charged in an International Op Targeting Crypto Market,Startups,11,0,737min,2026-04-05 14:57:52.389305
+47613181,Show HN: I run a full software company solo with Claude Code agents,Startups,6,0,martinovigiani,2026-04-05 15:02:26.654790
+47597345,How do the likely/unlikely macros in the Linux kernel work?,Startups,6,0,tosh,2026-04-05 15:02:53.443324
+47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,Startups,30,0,mooreds,2026-04-05 15:02:53.443376
+47592660,The .env File Nobody Needs,Startups,13,6,alwillis,2026-04-05 15:02:53.443390
+47605086,pg_plan_alternatives: Tracing PostgreSQL Query Plan Alternatives Using eBPF,Startups,7,1,tanelpoder,2026-04-05 15:02:53.443402
+47612202,Article about simple LSB steganography in JavaScript,Startups,7,1,ernos,2026-04-05 15:02:53.443411
+47630701,FEMA Official Claims Waffle House Teleportation Power,Startups,6,0,giardini,2026-04-05 15:02:53.443429
+47594637,Show HN: Asciimap – Interactive ASCII world map with live data,Startups,10,3,limsight,2026-04-05 15:02:53.443438
+47642088,EU ready to cave to Trump on tech,Startups,11,1,only_in_america,2026-04-05 15:02:53.443448
+47602040,Ask HN: What dev tools do you rely on that nobody talks about?,Startups,43,37,crcsmnky,2026-04-05 15:02:53.443456
+47608602,The beginning of programming as we'll know it?,Startups,62,68,zdw,2026-04-05 15:02:53.443467
+47620867,Proton Workspace: An encrypted suite for team collaboration,Startups,26,4,teekert,2026-04-05 15:02:53.443476
+47622467,Tesla March car registrations soar in key European markets,Startups,40,6,havaloc,2026-04-05 15:02:53.443485
+47607354,"""Vibecession"" reflects an increasingly difficult economy and society",Startups,30,5,paulpauper,2026-04-05 15:02:53.443494
+47631515,A new Postcrossing stamp from the USA,Startups,8,1,Tomte,2026-04-05 15:02:53.443502
+47613827,One ant for $220: The new frontier of wildlife trafficking,Startups,6,0,gmays,2026-04-05 15:02:53.443509
+47590281,Claude Code leaked features and hidden commands,Startups,11,1,ishqdehlvi,2026-04-05 15:02:53.443517
+47639585,The War Against Misinformation Is Over. The Lies Won,Startups,12,0,cainxinth,2026-04-05 15:02:53.443524
+47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],Startups,36,1,latexr,2026-04-05 15:02:53.443531
+47632183,"US economy beats expectations to add 178,000 jobs in March",Startups,9,11,alephnerd,2026-04-05 15:02:53.443545
+47629485,A case study in testing with 100+ Claude agents in parallel,Science,50,44,thejash,2026-04-05 14:47:29.058604
+47588349,GitHub Monaspace Case Study,Science,146,50,homebrewer,2026-04-05 14:54:20.087832
+47645448,Budget cuts for US science proposed again by Trump administration,Science,7,0,bhouston,2026-04-05 14:58:38.730183
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",Science,12,4,Edward9055,2026-04-05 15:00:20.158481
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,Science,93,17,AustinDev,2026-04-05 15:01:02.142264
+47606040,The Anti-Intellectualism of Silicon Valley Elites,Science,100,27,speckx,2026-04-05 15:02:53.443555
+47592939,JSSE: A JavaScript Engine Built by an Agent,Science,27,16,tilt,2026-04-05 15:02:53.443563
+47628860,Meta Has a New Linux Optimization Avoid Throttling TCP Throughput Unnecessarily,Science,8,0,Bender,2026-04-05 15:02:53.443571
+47593620,1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs,Science,9,1,wmf,2026-04-05 15:02:53.443586
+47616185,Show HN: AI-first PostgreSQL client for Mac,Science,5,0,Guillim,2026-04-05 15:02:53.443594
+47594159,RFC Esolang – RFCs as executable programs,Science,11,1,beefburger,2026-04-05 15:02:53.443608
+47630749,Ask HN: Should we collectively stop spell checking and fixing grammar,Science,5,16,sankalpnarula,2026-04-05 15:02:53.443616
+47616622,EmDash: A Fresh Take on CMS,Science,60,13,taubek,2026-04-05 15:02:53.443625
+47629306,Pharmaceuticals face 100% tariffs in US – unless firms strike a deal,Science,37,31,geox,2026-04-05 15:02:53.443635
+47633191,"Darkness can ""travel"" faster than light speed",Science,11,6,Jimmc414,2026-04-05 15:02:53.443642
+47641555,US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war,Science,61,81,prmph,2026-04-05 15:02:53.443650
+47617630,"Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",Science,7,1,nikisweeting,2026-04-05 15:02:53.443659
+47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",Science,44,4,smartmic,2026-04-05 15:02:53.443674
+47624164,AI models will deceive you to save their own kind,Science,14,1,cmsefton,2026-04-05 15:02:53.443682
+47619319,Show HN: RiceVM – A Dis virtual machine and Limbo compiler in Rust,Science,6,0,habedi0,2026-04-05 15:02:53.443697
+47634073,CBP Facility Codes Sure Seem to Have Leaked via Online Flashcards,Science,12,1,couchand,2026-04-05 15:02:53.443705
+47606349,"Dutch armed forces recruiting 1,200 drone specialists",Science,44,1,johnbarron,2026-04-05 15:02:53.443713
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,Security,391,245,eichin,2026-04-05 14:46:22.332442
+47628608,OpenClaw privilege escalation vulnerability,Security,502,247,kykeonaut,2026-04-05 14:46:48.714345
+47627419,The Axios supply chain attack used individually targeted social engineering,Security,46,11,cmitsakis,2026-04-05 14:49:27.184920
+47602832,EmDash – A spiritual successor to WordPress that solves plugin security,Security,687,499,elithrar,2026-04-05 14:50:18.114325
+47627308,Claude Code Found a Linux Vulnerability Hidden for 23 Years,Security,9,2,mtlynch,2026-04-05 14:57:33.463471
+47633226,Meta Pauses Work with Mercor After Data Breach Puts AI Industry Secrets at Risk,Security,11,1,srameshc,2026-04-05 15:00:22.164364
+47639757,Hims and Hers warns of data breach after Zendesk support ticket breach,Security,8,0,Brajeshwar,2026-04-05 15:01:06.136513
+47629840,North Korea–linked hackers drain $285M from Drift in sophisticated attack,Security,6,2,lschueller,2026-04-05 15:02:53.242711
+47625537,"Economists Once Dismissed the A.I. Job Threat, but Not Anymore",Security,20,9,chrisaycock,2026-04-05 15:02:53.443722
+47624558,Proton Meet isn't what they told you it was,Security,163,164,bundie,2026-04-05 15:02:53.443744
+47634234,Silicon Valley Is in a Frenzy over Bots That Build Themselves,Security,11,1,geox,2026-04-05 15:02:53.443754
+47607159,"AbodeLLM – An offline AI assistant for Android devices, based on open models",Security,7,0,shaicoleman,2026-04-05 15:02:53.443761
+47611572,Show HN: SideX – VS Code rebuilt on Tauri instead of Electron (96% smaller),Security,12,2,KendallCBooker,2026-04-05 15:02:53.443768
+47634422,"Native Americans had dice 12,000 years ago",Security,9,1,delichon,2026-04-05 15:02:53.443775
+47594840,"Kagi: April 1, 1996",Security,31,10,surprisetalk,2026-04-05 15:02:53.443783
+47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,Security,9,9,JasonDuke,2026-04-05 15:02:53.443790
+47617343,Trump fires Pam Bondi as attorney general,Security,131,108,Cider9986,2026-04-05 15:02:53.443798
+47618322,Mistral secures $830M in debt financing to fund AI data center,Security,33,3,gmays,2026-04-05 15:02:53.443814
+47591834,Do LLMs Break the Sapir-Whorf Hypothesis?,Security,15,7,dot_treo,2026-04-05 15:02:53.443823
+47632273,"Wine 11.6 – Run Windows Applications on Linux, BSD, Solaris and macOS",Security,8,0,neustradamus,2026-04-05 15:02:53.443830
+47632385,"Palm-sized superconducting magnet achieves 42 Tesla, rivaling the worlds biggest",Security,10,0,u1hcw9nx,2026-04-05 15:02:53.443837
+47615360,Japanese X is now America's favorite corner of the internet,Security,55,9,mikhael,2026-04-05 15:02:53.443844
+47621304,Brazil Joins Elite Club of Advanced Fighter Producers: First Home-Built Gripen E,Security,7,0,teleforce,2026-04-05 15:02:53.443852
