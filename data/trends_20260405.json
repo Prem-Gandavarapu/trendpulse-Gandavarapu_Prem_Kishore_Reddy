@@ -1,0 +1,1127 @@
+[
+    {
+        "post_id": 47640875,
+        "title": "LLM Wiki \u2013 example of an \"idea file\"",
+        "category": "AI",
+        "score": 182,
+        "num_comments": 53,
+        "author": "tamnd",
+        "collected_at": "2026-04-05T14:44:59.572097"
+    },
+    {
+        "post_id": 47645468,
+        "title": "Writing Lisp is AI resistant and I'm sad",
+        "category": "AI",
+        "score": 64,
+        "num_comments": 62,
+        "author": "djha-skin",
+        "collected_at": "2026-04-05T14:46:02.450335"
+    },
+    {
+        "post_id": 47638270,
+        "title": "Mbodi AI (YC P25) Is Hiring",
+        "category": "AI",
+        "score": 1,
+        "num_comments": null,
+        "author": "chitianhao",
+        "collected_at": "2026-04-05T14:46:12.484463"
+    },
+    {
+        "post_id": 47647038,
+        "title": "An AI bot invited me to its party in Manchester. It was a pretty good night",
+        "category": "AI",
+        "score": 4,
+        "num_comments": 0,
+        "author": "mellosouls",
+        "collected_at": "2026-04-05T14:46:24.180916"
+    },
+    {
+        "post_id": 47646241,
+        "title": "Applying machine learning to identify unrecognized Covid-19 deaths in the US",
+        "category": "AI",
+        "score": 11,
+        "num_comments": 7,
+        "author": "Pxtl",
+        "collected_at": "2026-04-05T14:46:57.686271"
+    },
+    {
+        "post_id": 47624645,
+        "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+        "category": "AI",
+        "score": 715,
+        "num_comments": 146,
+        "author": "franze",
+        "collected_at": "2026-04-05T14:47:27.009472"
+    },
+    {
+        "post_id": 47645976,
+        "title": "AI that copied musical artist files copyright claim against artist [updated]",
+        "category": "AI",
+        "score": 56,
+        "num_comments": 14,
+        "author": "josephcsible",
+        "collected_at": "2026-04-05T14:47:35.298337"
+    },
+    {
+        "post_id": 47618223,
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "category": "AI",
+        "score": 394,
+        "num_comments": 146,
+        "author": "denssumesh",
+        "collected_at": "2026-04-05T14:47:43.660186"
+    },
+    {
+        "post_id": 47638147,
+        "title": "Show HN: Pluck \u2013 Copy any UI from any website, paste it into AI coding tools",
+        "category": "AI",
+        "score": 16,
+        "num_comments": 12,
+        "author": "bring-shrubbery",
+        "collected_at": "2026-04-05T14:47:50.356138"
+    },
+    {
+        "post_id": 47612724,
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "category": "AI",
+        "score": 564,
+        "num_comments": 113,
+        "author": "AbuAssar",
+        "collected_at": "2026-04-05T14:48:37.822295"
+    },
+    {
+        "post_id": 47617376,
+        "title": "OpenAI Acquires TBPN",
+        "category": "AI",
+        "score": 238,
+        "num_comments": 190,
+        "author": "surprisetalk",
+        "collected_at": "2026-04-05T14:48:39.920636"
+    },
+    {
+        "post_id": 47645696,
+        "title": "Towards end-to-end automation of AI research",
+        "category": "AI",
+        "score": 6,
+        "num_comments": 0,
+        "author": "hardmaru",
+        "collected_at": "2026-04-05T14:48:55.768169"
+    },
+    {
+        "post_id": 47635033,
+        "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+        "category": "AI",
+        "score": 92,
+        "num_comments": 37,
+        "author": "borski",
+        "collected_at": "2026-04-05T14:48:59.696677"
+    },
+    {
+        "post_id": 47639207,
+        "title": "Show HN: Tokencap \u2013 Token budget enforcement across your AI agents",
+        "category": "AI",
+        "score": 7,
+        "num_comments": 0,
+        "author": "pykul",
+        "collected_at": "2026-04-05T14:51:07.832310"
+    },
+    {
+        "post_id": 47632504,
+        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+        "category": "AI",
+        "score": 96,
+        "num_comments": 39,
+        "author": "Bender",
+        "collected_at": "2026-04-05T14:51:12.241456"
+    },
+    {
+        "post_id": 47592755,
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "category": "AI",
+        "score": 526,
+        "num_comments": 493,
+        "author": "surprisetalk",
+        "collected_at": "2026-04-05T14:51:36.197375"
+    },
+    {
+        "post_id": 47635340,
+        "title": "Let's be Honest about AI Coding",
+        "category": "AI",
+        "score": 22,
+        "num_comments": 3,
+        "author": "lordofmoria",
+        "collected_at": "2026-04-05T14:51:44.602248"
+    },
+    {
+        "post_id": 47620039,
+        "title": "Reporting potholes with an ESP32, LoRA, and AI",
+        "category": "AI",
+        "score": 33,
+        "num_comments": 0,
+        "author": "flakespancakes",
+        "collected_at": "2026-04-05T14:52:37.847768"
+    },
+    {
+        "post_id": 47603737,
+        "title": "AI for American-produced cement and concrete",
+        "category": "AI",
+        "score": 223,
+        "num_comments": 117,
+        "author": "latchkey",
+        "collected_at": "2026-04-05T14:52:42.083765"
+    },
+    {
+        "post_id": 47617217,
+        "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
+        "category": "AI",
+        "score": 36,
+        "num_comments": 6,
+        "author": "j0rg3",
+        "collected_at": "2026-04-05T14:53:13.379908"
+    },
+    {
+        "post_id": 47634240,
+        "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
+        "category": "AI",
+        "score": 30,
+        "num_comments": 4,
+        "author": "diehunde",
+        "collected_at": "2026-04-05T14:53:54.340986"
+    },
+    {
+        "post_id": 47633715,
+        "title": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
+        "category": "AI",
+        "score": 35,
+        "num_comments": 8,
+        "author": "heavyset_go",
+        "collected_at": "2026-04-05T14:54:01.031304"
+    },
+    {
+        "post_id": 47633514,
+        "title": "Writing an LLM from scratch, part 32h \u2013 Interventions: full fat float32",
+        "category": "AI",
+        "score": 7,
+        "num_comments": 0,
+        "author": "gpjt",
+        "collected_at": "2026-04-05T14:54:09.352934"
+    },
+    {
+        "post_id": 47632901,
+        "title": "Sandbox Strategy Game for AI",
+        "category": "AI",
+        "score": 6,
+        "num_comments": 0,
+        "author": "Stefan_Golas",
+        "collected_at": "2026-04-05T14:54:21.915055"
+    },
+    {
+        "post_id": 47610336,
+        "title": "r/programming bans all discussion of LLM programming",
+        "category": "AI",
+        "score": 196,
+        "num_comments": 219,
+        "author": "cryptoz",
+        "collected_at": "2026-04-05T14:55:19.526157"
+    },
+    {
+        "post_id": 47646843,
+        "title": "Lisette a little language inspired by Rust that compiles to Go",
+        "category": "Programming",
+        "score": 26,
+        "num_comments": 10,
+        "author": "jspdown",
+        "collected_at": "2026-04-05T14:44:57.781078"
+    },
+    {
+        "post_id": 47645025,
+        "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
+        "category": "Programming",
+        "score": 64,
+        "num_comments": 25,
+        "author": "waveywaves",
+        "collected_at": "2026-04-05T14:45:13.762790"
+    },
+    {
+        "post_id": 47616157,
+        "title": "Software never had a soul",
+        "category": "Programming",
+        "score": 13,
+        "num_comments": 11,
+        "author": "firloop",
+        "collected_at": "2026-04-05T14:45:15.691251"
+    },
+    {
+        "post_id": 47637757,
+        "title": "Embarrassingly simple self-distillation improves code generation",
+        "category": "Programming",
+        "score": 589,
+        "num_comments": 177,
+        "author": "Anon84",
+        "collected_at": "2026-04-05T14:45:40.650275"
+    },
+    {
+        "post_id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "category": "Programming",
+        "score": 1048,
+        "num_comments": 795,
+        "author": "firloop",
+        "collected_at": "2026-04-05T14:45:50.374061"
+    },
+    {
+        "post_id": 47601570,
+        "title": "Csp-toolkit \u2013 Python library to parse, analyze, and find bypasses in CSP headers",
+        "category": "Programming",
+        "score": 12,
+        "num_comments": 1,
+        "author": "bitscraper",
+        "collected_at": "2026-04-05T14:47:48.000235"
+    },
+    {
+        "post_id": 47633640,
+        "title": "How to Write Unmaintainable Code (1999)",
+        "category": "Programming",
+        "score": 51,
+        "num_comments": 16,
+        "author": "downbad_",
+        "collected_at": "2026-04-05T14:48:28.816158"
+    },
+    {
+        "post_id": 47630592,
+        "title": "Async Python Is Secretly Deterministic",
+        "category": "Programming",
+        "score": 75,
+        "num_comments": 34,
+        "author": "KraftyOne",
+        "collected_at": "2026-04-05T14:48:53.593587"
+    },
+    {
+        "post_id": 47645251,
+        "title": "A broken auto-live poller, and what perceived urgency does to Claude Code",
+        "category": "Programming",
+        "score": 4,
+        "num_comments": 0,
+        "author": "vinhnx",
+        "collected_at": "2026-04-05T14:50:33.530858"
+    },
+    {
+        "post_id": 47620933,
+        "title": "Memo: A language that remembers only the last 12 lines of code",
+        "category": "Programming",
+        "score": 57,
+        "num_comments": 36,
+        "author": "notem",
+        "collected_at": "2026-04-05T14:50:39.798729"
+    },
+    {
+        "post_id": 47612321,
+        "title": "Show HN: I built a DNS resolver from scratch in Rust \u2013 no DNS libraries",
+        "category": "Programming",
+        "score": 113,
+        "num_comments": 65,
+        "author": "rdme",
+        "collected_at": "2026-04-05T14:52:26.800743"
+    },
+    {
+        "post_id": 47608058,
+        "title": "A new C++ back end for ocamlc",
+        "category": "Programming",
+        "score": 236,
+        "num_comments": 20,
+        "author": "glittershark",
+        "collected_at": "2026-04-05T14:53:09.174326"
+    },
+    {
+        "post_id": 47620939,
+        "title": "rpg: A modern psql-compatible Postgres terminal and TUI written in Rust",
+        "category": "Programming",
+        "score": 21,
+        "num_comments": 3,
+        "author": "tanelpoder",
+        "collected_at": "2026-04-05T14:53:35.534826"
+    },
+    {
+        "post_id": 47633734,
+        "title": "ENiGMA\u00bd BBS Software",
+        "category": "Programming",
+        "score": 10,
+        "num_comments": 1,
+        "author": "NuSkooler",
+        "collected_at": "2026-04-05T14:54:03.240884"
+    },
+    {
+        "post_id": 47618247,
+        "title": "Show HN: SyNumpy \u2013 a Header only C++17 library for working with NumPy Arrays",
+        "category": "Programming",
+        "score": 21,
+        "num_comments": 4,
+        "author": "symisc_devel",
+        "collected_at": "2026-04-05T14:54:13.698946"
+    },
+    {
+        "post_id": 47597085,
+        "title": "Claude Code Unpacked : A visual guide",
+        "category": "Programming",
+        "score": 1110,
+        "num_comments": 403,
+        "author": "autocracy101",
+        "collected_at": "2026-04-05T14:55:24.147172"
+    },
+    {
+        "post_id": 47594804,
+        "title": "Show HN: Claude Code rewritten as a bash script",
+        "category": "Programming",
+        "score": 59,
+        "num_comments": 19,
+        "author": "rpst",
+        "collected_at": "2026-04-05T14:55:47.488827"
+    },
+    {
+        "post_id": 47589732,
+        "title": "Forth VM and compiler written in C++ and Scryer Prolog",
+        "category": "Programming",
+        "score": 37,
+        "num_comments": 0,
+        "author": "triska",
+        "collected_at": "2026-04-05T14:56:09.454213"
+    },
+    {
+        "post_id": 47631444,
+        "title": "Show HN: Run Claude Code autonomously inside your Docker Compose stack (OSS)",
+        "category": "Programming",
+        "score": 8,
+        "num_comments": 0,
+        "author": "sayil",
+        "collected_at": "2026-04-05T14:56:18.345205"
+    },
+    {
+        "post_id": 47609294,
+        "title": "The Claude Code Leak",
+        "category": "Programming",
+        "score": 199,
+        "num_comments": 180,
+        "author": "mergesort",
+        "collected_at": "2026-04-05T14:57:16.097371"
+    },
+    {
+        "post_id": 47628083,
+        "title": "Audit Claude Platform Activity with the Compliance API",
+        "category": "Programming",
+        "score": 5,
+        "num_comments": 0,
+        "author": "gmays",
+        "collected_at": "2026-04-05T14:57:29.027487"
+    },
+    {
+        "post_id": 47602986,
+        "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+        "category": "Programming",
+        "score": 76,
+        "num_comments": 29,
+        "author": "simple10",
+        "collected_at": "2026-04-05T14:57:35.397079"
+    },
+    {
+        "post_id": 47599956,
+        "title": "Show HN: Sycamore \u2013 next gen Rust web UI library using fine-grained reactivity",
+        "category": "Programming",
+        "score": 95,
+        "num_comments": 74,
+        "author": "lukechu10",
+        "collected_at": "2026-04-05T14:59:01.023357"
+    },
+    {
+        "post_id": 47609425,
+        "title": "Show HN: We open-sourced our content writing workflow as a Claude Code skill",
+        "category": "Programming",
+        "score": 18,
+        "num_comments": 8,
+        "author": "arximughal",
+        "collected_at": "2026-04-05T14:59:29.724799"
+    },
+    {
+        "post_id": 47592392,
+        "title": "Show HN: EU Leadership \u2013 Live API data site comparing Europe to the world",
+        "category": "Programming",
+        "score": 34,
+        "num_comments": 16,
+        "author": "aureljohn",
+        "collected_at": "2026-04-05T15:00:08.899861"
+    },
+    {
+        "post_id": 47610590,
+        "title": "The East India Company in Japan",
+        "category": "Startups",
+        "score": 10,
+        "num_comments": 1,
+        "author": "Thevet",
+        "collected_at": "2026-04-05T14:46:00.589675"
+    },
+    {
+        "post_id": 47606840,
+        "title": "DRAM pricing is killing the hobbyist SBC market",
+        "category": "Startups",
+        "score": 627,
+        "num_comments": 541,
+        "author": "ingve",
+        "collected_at": "2026-04-05T14:52:33.642544"
+    },
+    {
+        "post_id": 47634220,
+        "title": "Ten Foreign Nationals Charged in an International Op Targeting Crypto Market",
+        "category": "Startups",
+        "score": 11,
+        "num_comments": 0,
+        "author": "737min",
+        "collected_at": "2026-04-05T14:57:52.389305"
+    },
+    {
+        "post_id": 47613181,
+        "title": "Show HN: I run a full software company solo with Claude Code agents",
+        "category": "Startups",
+        "score": 6,
+        "num_comments": 0,
+        "author": "martinovigiani",
+        "collected_at": "2026-04-05T15:02:26.654790"
+    },
+    {
+        "post_id": 47597345,
+        "title": "How do the likely/unlikely macros in the Linux kernel work?",
+        "category": "Startups",
+        "score": 6,
+        "num_comments": 0,
+        "author": "tosh",
+        "collected_at": "2026-04-05T15:02:53.443324"
+    },
+    {
+        "post_id": 47616475,
+        "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
+        "category": "Startups",
+        "score": 30,
+        "num_comments": 0,
+        "author": "mooreds",
+        "collected_at": "2026-04-05T15:02:53.443376"
+    },
+    {
+        "post_id": 47592660,
+        "title": "The .env File Nobody Needs",
+        "category": "Startups",
+        "score": 13,
+        "num_comments": 6,
+        "author": "alwillis",
+        "collected_at": "2026-04-05T15:02:53.443390"
+    },
+    {
+        "post_id": 47605086,
+        "title": "pg_plan_alternatives: Tracing PostgreSQL Query Plan Alternatives Using eBPF",
+        "category": "Startups",
+        "score": 7,
+        "num_comments": 1,
+        "author": "tanelpoder",
+        "collected_at": "2026-04-05T15:02:53.443402"
+    },
+    {
+        "post_id": 47612202,
+        "title": "Article about simple LSB steganography in JavaScript",
+        "category": "Startups",
+        "score": 7,
+        "num_comments": 1,
+        "author": "ernos",
+        "collected_at": "2026-04-05T15:02:53.443411"
+    },
+    {
+        "post_id": 47634657,
+        "title": "50 years of Apple with the only original employee still there",
+        "category": "Startups",
+        "score": 3,
+        "num_comments": 0,
+        "author": "canucker2016",
+        "collected_at": "2026-04-05T15:02:53.443422"
+    },
+    {
+        "post_id": 47630701,
+        "title": "FEMA Official Claims Waffle House Teleportation Power",
+        "category": "Startups",
+        "score": 6,
+        "num_comments": 0,
+        "author": "giardini",
+        "collected_at": "2026-04-05T15:02:53.443429"
+    },
+    {
+        "post_id": 47594637,
+        "title": "Show HN: Asciimap \u2013 Interactive ASCII world map with live data",
+        "category": "Startups",
+        "score": 10,
+        "num_comments": 3,
+        "author": "limsight",
+        "collected_at": "2026-04-05T15:02:53.443438"
+    },
+    {
+        "post_id": 47642088,
+        "title": "EU ready to cave to Trump on tech",
+        "category": "Startups",
+        "score": 11,
+        "num_comments": 1,
+        "author": "only_in_america",
+        "collected_at": "2026-04-05T15:02:53.443448"
+    },
+    {
+        "post_id": 47602040,
+        "title": "Ask HN: What dev tools do you rely on that nobody talks about?",
+        "category": "Startups",
+        "score": 43,
+        "num_comments": 37,
+        "author": "crcsmnky",
+        "collected_at": "2026-04-05T15:02:53.443456"
+    },
+    {
+        "post_id": 47608602,
+        "title": "The beginning of programming as we'll know it?",
+        "category": "Startups",
+        "score": 62,
+        "num_comments": 68,
+        "author": "zdw",
+        "collected_at": "2026-04-05T15:02:53.443467"
+    },
+    {
+        "post_id": 47620867,
+        "title": "Proton Workspace: An encrypted suite for team collaboration",
+        "category": "Startups",
+        "score": 26,
+        "num_comments": 4,
+        "author": "teekert",
+        "collected_at": "2026-04-05T15:02:53.443476"
+    },
+    {
+        "post_id": 47622467,
+        "title": "Tesla March car registrations soar in key European markets",
+        "category": "Startups",
+        "score": 40,
+        "num_comments": 6,
+        "author": "havaloc",
+        "collected_at": "2026-04-05T15:02:53.443485"
+    },
+    {
+        "post_id": 47607354,
+        "title": "\"Vibecession\" reflects an increasingly difficult economy and society",
+        "category": "Startups",
+        "score": 30,
+        "num_comments": 5,
+        "author": "paulpauper",
+        "collected_at": "2026-04-05T15:02:53.443494"
+    },
+    {
+        "post_id": 47631515,
+        "title": "A new Postcrossing stamp from the USA",
+        "category": "Startups",
+        "score": 8,
+        "num_comments": 1,
+        "author": "Tomte",
+        "collected_at": "2026-04-05T15:02:53.443502"
+    },
+    {
+        "post_id": 47613827,
+        "title": "One ant for $220: The new frontier of wildlife trafficking",
+        "category": "Startups",
+        "score": 6,
+        "num_comments": 0,
+        "author": "gmays",
+        "collected_at": "2026-04-05T15:02:53.443509"
+    },
+    {
+        "post_id": 47590281,
+        "title": "Claude Code leaked features and hidden commands",
+        "category": "Startups",
+        "score": 11,
+        "num_comments": 1,
+        "author": "ishqdehlvi",
+        "collected_at": "2026-04-05T15:02:53.443517"
+    },
+    {
+        "post_id": 47639585,
+        "title": "The War Against Misinformation Is Over. The Lies Won",
+        "category": "Startups",
+        "score": 12,
+        "num_comments": 0,
+        "author": "cainxinth",
+        "collected_at": "2026-04-05T15:02:53.443524"
+    },
+    {
+        "post_id": 47606909,
+        "title": "Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video]",
+        "category": "Startups",
+        "score": 36,
+        "num_comments": 1,
+        "author": "latexr",
+        "collected_at": "2026-04-05T15:02:53.443531"
+    },
+    {
+        "post_id": 47614364,
+        "title": "Apple Rich Text Fundamentals",
+        "category": "Startups",
+        "score": 4,
+        "num_comments": 0,
+        "author": "tobr",
+        "collected_at": "2026-04-05T15:02:53.443538"
+    },
+    {
+        "post_id": 47632183,
+        "title": "US economy beats expectations to add 178,000 jobs in March",
+        "category": "Startups",
+        "score": 9,
+        "num_comments": 11,
+        "author": "alephnerd",
+        "collected_at": "2026-04-05T15:02:53.443545"
+    },
+    {
+        "post_id": 47629485,
+        "title": "A case study in testing with 100+ Claude agents in parallel",
+        "category": "Science",
+        "score": 50,
+        "num_comments": 44,
+        "author": "thejash",
+        "collected_at": "2026-04-05T14:47:29.058604"
+    },
+    {
+        "post_id": 47588349,
+        "title": "GitHub Monaspace Case Study",
+        "category": "Science",
+        "score": 146,
+        "num_comments": 50,
+        "author": "homebrewer",
+        "collected_at": "2026-04-05T14:54:20.087832"
+    },
+    {
+        "post_id": 47645448,
+        "title": "Budget cuts for US science proposed again by Trump administration",
+        "category": "Science",
+        "score": 7,
+        "num_comments": 0,
+        "author": "bhouston",
+        "collected_at": "2026-04-05T14:58:38.730183"
+    },
+    {
+        "post_id": 47609883,
+        "title": "Salomi, a research repo on extreme low-bit transformer quantization",
+        "category": "Science",
+        "score": 12,
+        "num_comments": 4,
+        "author": "Edward9055",
+        "collected_at": "2026-04-05T15:00:20.158481"
+    },
+    {
+        "post_id": 47609725,
+        "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+        "category": "Science",
+        "score": 93,
+        "num_comments": 17,
+        "author": "AustinDev",
+        "collected_at": "2026-04-05T15:01:02.142264"
+    },
+    {
+        "post_id": 47606040,
+        "title": "The Anti-Intellectualism of Silicon Valley Elites",
+        "category": "Science",
+        "score": 100,
+        "num_comments": 27,
+        "author": "speckx",
+        "collected_at": "2026-04-05T15:02:53.443555"
+    },
+    {
+        "post_id": 47592939,
+        "title": "JSSE: A JavaScript Engine Built by an Agent",
+        "category": "Science",
+        "score": 27,
+        "num_comments": 16,
+        "author": "tilt",
+        "collected_at": "2026-04-05T15:02:53.443563"
+    },
+    {
+        "post_id": 47628860,
+        "title": "Meta Has a New Linux Optimization Avoid Throttling TCP Throughput Unnecessarily",
+        "category": "Science",
+        "score": 8,
+        "num_comments": 0,
+        "author": "Bender",
+        "collected_at": "2026-04-05T15:02:53.443571"
+    },
+    {
+        "post_id": 47615968,
+        "title": "A PHP license change is imminent",
+        "category": "Science",
+        "score": 3,
+        "num_comments": 0,
+        "author": "voxadam",
+        "collected_at": "2026-04-05T15:02:53.443579"
+    },
+    {
+        "post_id": 47593620,
+        "title": "1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs",
+        "category": "Science",
+        "score": 9,
+        "num_comments": 1,
+        "author": "wmf",
+        "collected_at": "2026-04-05T15:02:53.443586"
+    },
+    {
+        "post_id": 47616185,
+        "title": "Show HN: AI-first PostgreSQL client for Mac",
+        "category": "Science",
+        "score": 5,
+        "num_comments": 0,
+        "author": "Guillim",
+        "collected_at": "2026-04-05T15:02:53.443594"
+    },
+    {
+        "post_id": 47594159,
+        "title": "RFC Esolang \u2013 RFCs as executable programs",
+        "category": "Science",
+        "score": 11,
+        "num_comments": 1,
+        "author": "beefburger",
+        "collected_at": "2026-04-05T15:02:53.443608"
+    },
+    {
+        "post_id": 47630749,
+        "title": "Ask HN: Should we collectively stop spell checking and fixing grammar",
+        "category": "Science",
+        "score": 5,
+        "num_comments": 16,
+        "author": "sankalpnarula",
+        "collected_at": "2026-04-05T15:02:53.443616"
+    },
+    {
+        "post_id": 47616622,
+        "title": "EmDash: A Fresh Take on CMS",
+        "category": "Science",
+        "score": 60,
+        "num_comments": 13,
+        "author": "taubek",
+        "collected_at": "2026-04-05T15:02:53.443625"
+    },
+    {
+        "post_id": 47629306,
+        "title": "Pharmaceuticals face 100% tariffs in US \u2013 unless firms strike a deal",
+        "category": "Science",
+        "score": 37,
+        "num_comments": 31,
+        "author": "geox",
+        "collected_at": "2026-04-05T15:02:53.443635"
+    },
+    {
+        "post_id": 47633191,
+        "title": "Darkness can \"travel\" faster than light speed",
+        "category": "Science",
+        "score": 11,
+        "num_comments": 6,
+        "author": "Jimmc414",
+        "collected_at": "2026-04-05T15:02:53.443642"
+    },
+    {
+        "post_id": 47641555,
+        "title": "US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war",
+        "category": "Science",
+        "score": 61,
+        "num_comments": 81,
+        "author": "prmph",
+        "collected_at": "2026-04-05T15:02:53.443650"
+    },
+    {
+        "post_id": 47617630,
+        "title": "Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",
+        "category": "Science",
+        "score": 7,
+        "num_comments": 1,
+        "author": "nikisweeting",
+        "collected_at": "2026-04-05T15:02:53.443659"
+    },
+    {
+        "post_id": 47617687,
+        "title": "How High Can Memory Prices Go?",
+        "category": "Science",
+        "score": 4,
+        "num_comments": 0,
+        "author": "speckx",
+        "collected_at": "2026-04-05T15:02:53.443667"
+    },
+    {
+        "post_id": 47592113,
+        "title": "Jami \u2013 free/libre, end-to-end encrypted, and private communication software",
+        "category": "Science",
+        "score": 44,
+        "num_comments": 4,
+        "author": "smartmic",
+        "collected_at": "2026-04-05T15:02:53.443674"
+    },
+    {
+        "post_id": 47624164,
+        "title": "AI models will deceive you to save their own kind",
+        "category": "Science",
+        "score": 14,
+        "num_comments": 1,
+        "author": "cmsefton",
+        "collected_at": "2026-04-05T15:02:53.443682"
+    },
+    {
+        "post_id": 47619211,
+        "title": "Map of breast tissue changes reveals role of menopause in cancer susceptibility",
+        "category": "Science",
+        "score": 3,
+        "num_comments": 0,
+        "author": "gmays",
+        "collected_at": "2026-04-05T15:02:53.443689"
+    },
+    {
+        "post_id": 47619319,
+        "title": "Show HN: RiceVM \u2013 A Dis virtual machine and Limbo compiler in Rust",
+        "category": "Science",
+        "score": 6,
+        "num_comments": 0,
+        "author": "habedi0",
+        "collected_at": "2026-04-05T15:02:53.443697"
+    },
+    {
+        "post_id": 47634073,
+        "title": "CBP Facility Codes Sure Seem to Have Leaked via Online Flashcards",
+        "category": "Science",
+        "score": 12,
+        "num_comments": 1,
+        "author": "couchand",
+        "collected_at": "2026-04-05T15:02:53.443705"
+    },
+    {
+        "post_id": 47606349,
+        "title": "Dutch armed forces recruiting 1,200 drone specialists",
+        "category": "Science",
+        "score": 44,
+        "num_comments": 1,
+        "author": "johnbarron",
+        "collected_at": "2026-04-05T15:02:53.443713"
+    },
+    {
+        "post_id": 47633855,
+        "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+        "category": "Security",
+        "score": 391,
+        "num_comments": 245,
+        "author": "eichin",
+        "collected_at": "2026-04-05T14:46:22.332442"
+    },
+    {
+        "post_id": 47628608,
+        "title": "OpenClaw privilege escalation vulnerability",
+        "category": "Security",
+        "score": 502,
+        "num_comments": 247,
+        "author": "kykeonaut",
+        "collected_at": "2026-04-05T14:46:48.714345"
+    },
+    {
+        "post_id": 47627419,
+        "title": "The Axios supply chain attack used individually targeted social engineering",
+        "category": "Security",
+        "score": 46,
+        "num_comments": 11,
+        "author": "cmitsakis",
+        "collected_at": "2026-04-05T14:49:27.184920"
+    },
+    {
+        "post_id": 47602832,
+        "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
+        "category": "Security",
+        "score": 687,
+        "num_comments": 499,
+        "author": "elithrar",
+        "collected_at": "2026-04-05T14:50:18.114325"
+    },
+    {
+        "post_id": 47627308,
+        "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+        "category": "Security",
+        "score": 9,
+        "num_comments": 2,
+        "author": "mtlynch",
+        "collected_at": "2026-04-05T14:57:33.463471"
+    },
+    {
+        "post_id": 47633226,
+        "title": "Meta Pauses Work with Mercor After Data Breach Puts AI Industry Secrets at Risk",
+        "category": "Security",
+        "score": 11,
+        "num_comments": 1,
+        "author": "srameshc",
+        "collected_at": "2026-04-05T15:00:22.164364"
+    },
+    {
+        "post_id": 47639757,
+        "title": "Hims and Hers warns of data breach after Zendesk support ticket breach",
+        "category": "Security",
+        "score": 8,
+        "num_comments": 0,
+        "author": "Brajeshwar",
+        "collected_at": "2026-04-05T15:01:06.136513"
+    },
+    {
+        "post_id": 47629840,
+        "title": "North Korea\u2013linked hackers drain $285M from Drift in sophisticated attack",
+        "category": "Security",
+        "score": 6,
+        "num_comments": 2,
+        "author": "lschueller",
+        "collected_at": "2026-04-05T15:02:53.242711"
+    },
+    {
+        "post_id": 47625537,
+        "title": "Economists Once Dismissed the A.I. Job Threat, but Not Anymore",
+        "category": "Security",
+        "score": 20,
+        "num_comments": 9,
+        "author": "chrisaycock",
+        "collected_at": "2026-04-05T15:02:53.443722"
+    },
+    {
+        "post_id": 47642979,
+        "title": "Show HN: Using RasPi and Qwen 2.5 VL to find out when birds visit my balcony",
+        "category": "Security",
+        "score": 4,
+        "num_comments": 0,
+        "author": "akshay326",
+        "collected_at": "2026-04-05T15:02:53.443729"
+    },
+    {
+        "post_id": 47624558,
+        "title": "Proton Meet isn't what they told you it was",
+        "category": "Security",
+        "score": 163,
+        "num_comments": 164,
+        "author": "bundie",
+        "collected_at": "2026-04-05T15:02:53.443744"
+    },
+    {
+        "post_id": 47634234,
+        "title": "Silicon Valley Is in a Frenzy over Bots That Build Themselves",
+        "category": "Security",
+        "score": 11,
+        "num_comments": 1,
+        "author": "geox",
+        "collected_at": "2026-04-05T15:02:53.443754"
+    },
+    {
+        "post_id": 47607159,
+        "title": "AbodeLLM \u2013 An offline AI assistant for Android devices, based on open models",
+        "category": "Security",
+        "score": 7,
+        "num_comments": 0,
+        "author": "shaicoleman",
+        "collected_at": "2026-04-05T15:02:53.443761"
+    },
+    {
+        "post_id": 47611572,
+        "title": "Show HN: SideX \u2013 VS Code rebuilt on Tauri instead of Electron (96% smaller)",
+        "category": "Security",
+        "score": 12,
+        "num_comments": 2,
+        "author": "KendallCBooker",
+        "collected_at": "2026-04-05T15:02:53.443768"
+    },
+    {
+        "post_id": 47634422,
+        "title": "Native Americans had dice 12,000 years ago",
+        "category": "Security",
+        "score": 9,
+        "num_comments": 1,
+        "author": "delichon",
+        "collected_at": "2026-04-05T15:02:53.443775"
+    },
+    {
+        "post_id": 47594840,
+        "title": "Kagi: April 1, 1996",
+        "category": "Security",
+        "score": 31,
+        "num_comments": 10,
+        "author": "surprisetalk",
+        "collected_at": "2026-04-05T15:02:53.443783"
+    },
+    {
+        "post_id": 47608080,
+        "title": "Show HN: 65k AI voters predict UK local elections with 75% accuracy",
+        "category": "Security",
+        "score": 9,
+        "num_comments": 9,
+        "author": "JasonDuke",
+        "collected_at": "2026-04-05T15:02:53.443790"
+    },
+    {
+        "post_id": 47617343,
+        "title": "Trump fires Pam Bondi as attorney general",
+        "category": "Security",
+        "score": 131,
+        "num_comments": 108,
+        "author": "Cider9986",
+        "collected_at": "2026-04-05T15:02:53.443798"
+    },
+    {
+        "post_id": 47612331,
+        "title": "Baby's Second Garbage Collector",
+        "category": "Security",
+        "score": 4,
+        "num_comments": 0,
+        "author": "matheusmoreira",
+        "collected_at": "2026-04-05T15:02:53.443806"
+    },
+    {
+        "post_id": 47618322,
+        "title": "Mistral secures $830M in debt financing to fund AI data center",
+        "category": "Security",
+        "score": 33,
+        "num_comments": 3,
+        "author": "gmays",
+        "collected_at": "2026-04-05T15:02:53.443814"
+    },
+    {
+        "post_id": 47591834,
+        "title": "Do LLMs Break the Sapir-Whorf Hypothesis?",
+        "category": "Security",
+        "score": 15,
+        "num_comments": 7,
+        "author": "dot_treo",
+        "collected_at": "2026-04-05T15:02:53.443823"
+    },
+    {
+        "post_id": 47632273,
+        "title": "Wine 11.6 \u2013 Run Windows Applications on Linux, BSD, Solaris and macOS",
+        "category": "Security",
+        "score": 8,
+        "num_comments": 0,
+        "author": "neustradamus",
+        "collected_at": "2026-04-05T15:02:53.443830"
+    },
+    {
+        "post_id": 47632385,
+        "title": "Palm-sized superconducting magnet achieves 42 Tesla, rivaling the worlds biggest",
+        "category": "Security",
+        "score": 10,
+        "num_comments": 0,
+        "author": "u1hcw9nx",
+        "collected_at": "2026-04-05T15:02:53.443837"
+    },
+    {
+        "post_id": 47615360,
+        "title": "Japanese X is now America's favorite corner of the internet",
+        "category": "Security",
+        "score": 55,
+        "num_comments": 9,
+        "author": "mikhael",
+        "collected_at": "2026-04-05T15:02:53.443844"
+    },
+    {
+        "post_id": 47621304,
+        "title": "Brazil Joins Elite Club of Advanced Fighter Producers: First Home-Built Gripen E",
+        "category": "Security",
+        "score": 7,
+        "num_comments": 0,
+        "author": "teleforce",
+        "collected_at": "2026-04-05T15:02:53.443852"
+    }
+]
